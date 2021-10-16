@@ -54,7 +54,6 @@
 }
 .jkeyboard .jline .shift {
   width: 100px;
-  background: url("../assets/shift.png") no-repeat center center;
 }
 .jkeyboard .jline .shift.active {
   border-color: #fff;
@@ -64,5 +63,4 @@
 }
 .jkeyboard .jline .backspace {
   width: 69px;
-  background: url("../assets/backspace.png") no-repeat center center;
 }
